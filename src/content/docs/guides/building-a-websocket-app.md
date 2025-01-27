@@ -6,3 +6,4 @@ description: Detailed, step-by-step instructions on building a realtime web app 
 
 
 
+npm install socket.io-client react-native-webrtc
